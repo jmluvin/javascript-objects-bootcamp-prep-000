@@ -1,1 +1,1 @@
-var playlist = {}
+var playlist = { red hot chili peppers: 'goodbye angels'}
